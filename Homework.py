@@ -1,0 +1,1 @@
+1bday = input("what your first friends Birthda)
